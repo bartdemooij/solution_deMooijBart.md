@@ -5,6 +5,8 @@ The title of the following searches are:
 * JT Harvey, Applied Ergonomics, 2002 --> An analysis of the forces required to drag sheep over various surfaces
 * DW Ziegler et al., 2005 --> CORRELATION OF CONTINUOUS CARDIAC OUTPUT MEASURED BY A PULMONARY ARTERY CATHETER VERSUS IMPEDANCE CARDIOGRAPHY IN VENTILATED PATIENTS
 
-![Correlation Graph](/Users/bart/Pictures/WO_BeerConsumption.png)
+The graph of the istherecorrelation.csv file is added as an additional file.
+This graph does show some correlation because when WO increases, so does the Beer Consumption in NL.
+
 
 
